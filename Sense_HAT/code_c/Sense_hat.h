@@ -6,13 +6,7 @@
  * @copyright (c) Dorian ETCHEBER
  * @date 16.01.2023
  * 
- * @details
- * (A remplir)
  *
- * 
- * @note affiche une image sur une matrice de pixel 8x8
- * 
- * ## Usage
  * 
  * Basic usage is:
  * ```c
